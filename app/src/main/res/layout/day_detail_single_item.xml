@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:background="@color/colorAccent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <com.example.nightclass.Utils.LetterImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:id="@+id/ivDayDetails"
+            android:layout_margin="8dp">
+
+        </com.example.nightclass.Utils.LetterImageView>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvSubjectDayDetails"
+            android:text="@string/subjects"
+            android:layout_marginTop="6dp"
+            android:layout_marginStart="6dp"
+            android:textStyle="bold"
+            android:layout_toEndOf="@+id/ivDayDetails"
+            android:textSize="24sp">
+        </TextView>
+
+        <TextView
+            android:id="@+id/tvTimeDayDetail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/ivDayDetails"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="13dp"
+            android:text="@string/time"/>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

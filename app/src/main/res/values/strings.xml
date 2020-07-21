@@ -1,0 +1,213 @@
+<resources>
+    <string name="app_name">NightClass</string>
+    <string name="click_here">Click here…</string>
+    <string name="time_table">Time Table</string>
+    <string name="description">Description</string>
+    <string name="image_representation">image representation</string>
+    <string name="days">Days</string>
+    <string name="subjects">Subjects</string>
+    <string name="time">Time</string>
+    <string name="title">Title</string>
+    <string name="syllabus">Syllabus</string>
+
+    <string-array name="Main">
+        <item>Timetable</item>
+        <item>Courses</item>
+        <item>Resources</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>Description 1</item>
+        <item>Description 2</item>
+        <item>Description 3</item>
+    </string-array>
+
+    <string-array name="Week">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+    <string-array name="Monday">
+        <item>Chemistry \nCHM 101</item>
+        <item>BIOLOGY</item>
+        <item>FREE TIME!!!</item>
+        <item>MATHEMATICS \nMTH 101</item>
+        <item>FREE TIME!!!</item>
+        <item>USE OF ENGLISH \nGSS 111</item>
+        <item>BIOLOGY</item>
+    </string-array>
+
+    <string-array name="Tuesday">
+        <item>USE OF ENGLISH \nGSS 111</item>
+        <item>BOTANY</item>
+        <item>FREE TIME!!!</item>
+        <item>PHYSICS \nPHY 101</item>
+        <item>FREE TIME!!!</item>
+        <item>PHYSICS \nPHY 111</item>
+        <item>BIOLOGY \nBIO 101</item>
+    </string-array>
+
+    <string-array name="Wednesday">
+        <item>PHILOSOPHY AND LOGIC</item>
+        <item>ANIMAL AND ENVIRONMENTAL BIOLOGY \nZEB 101</item>
+        <item>FREE TIME!!!</item>
+        <item>CHEMISTRY</item>
+        <item>FREE TIME!!!</item>
+        <item>USE OF ENGLISH</item>
+        <item>FREE TIME!!!</item>
+    </string-array>
+
+    <string-array name="Thursday">
+        <item>USE OF ENGLISH</item>
+        <item>FREE TIME!!!</item>
+        <item>FREE TIME!!!</item>
+        <item>MATHEMATICS \nMTH 101</item>
+        <item>FREE TIME!!!</item>
+        <item>HISTORY AND PHILOSOPHY OF SCIENCE AND TECHNOLOGY \nGSS 113</item>
+        <item>FREE TIME!!!</item>
+    </string-array>
+
+    <string-array name="Friday">
+        <item>MATHEMATICS \nMTH 101</item>
+        <item>MATHEMATICS \nMTH 101</item>
+        <item>FREE TIME!!!</item>
+        <item>FREE TIME!!!</item>
+        <item>PHYSICS \nPHY 112</item>
+        <item>PHYSICS \nPHY 112</item>
+        <item>FREE TIME!!!</item>
+    </string-array>
+
+    <string-array name="Saturday">
+        <item>PERSONAL STUDIES</item>
+        <item>...</item>
+        <item>TUTORIALS \nTPT</item>
+        <item>TUTORIALS \nTPT</item>
+        <item>...</item>
+        <item>PERSONAL STUDIES</item>
+        <item>...</item>
+    </string-array>
+
+    <string-array name="time1">
+        <item>8:00AM - 9:00AM</item>
+        <item>9:00AM - 10:00AM</item>
+        <item>10:00AM - 11:00AM</item>
+        <item>11:00AM - 12:00PM</item>
+        <item>12:00PM - 1:00PM</item>
+        <item>1:00PM - 2:00PM</item>
+        <item>2:00PM - 4:00PM</item>
+    </string-array>
+
+    <string-array name="time2">
+        <item>7:00AM - 8:00AM</item>
+        <item>8:00AM - 9:00AM</item>
+        <item>9:00AM - 10:00AM</item>
+        <item>10:00AM - 11:00AM</item>
+        <item>11:00AM - 12:00PM</item>
+        <item>12:00PM - 2:00PM</item>
+        <item>2:00PM - 3:00PM</item>
+    </string-array>
+
+    <string-array name="time3">
+        <item>7:00AM - 8:00AM</item>
+        <item>8:00AM - 9:00AM</item>
+        <item>9:00AM - 10:00AM</item>
+        <item>10:00AM - 12:00PM</item>
+        <item>12:00PM - 1:00PM</item>
+        <item>1:00PM - 3:00PM</item>
+        <item>3:00PM - 4:00PM</item>
+    </string-array>
+
+    <string-array name="time4">
+        <item>7:00AM - 8:00AM</item>
+        <item>8:00AM - 9:00AM</item>
+        <item>9:00AM - 10:00AM</item>
+        <item>10:00AM - 12:00PM</item>
+        <item>12:00PM - 1:00PM</item>
+        <item>1:00PM - 3:00PM</item>
+        <item>3:00PM - 4:00PM</item>
+    </string-array>
+
+    <string-array name="time5">
+        <item>8:00AM - 9:00AM</item>
+        <item>9:00AM - 10:00AM</item>
+        <item>10:00AM - 11:00AM</item>
+        <item>11:00AM - 12:00PM</item>
+        <item>12:00PM - 1:00PM</item>
+        <item>1:00PM - 2:00PM</item>
+        <item>2:00PM - 3:00PM</item>
+    </string-array>
+
+    <string-array name="time6">
+        <item>9:00AM - 11:00AM</item>
+        <item>...</item>
+        <item>1:00PM - 2:00PM</item>
+        <item>2:00PM - 3:00PM</item>
+        <item>...</item>
+        <item>6:00PM - 8:00PM</item>
+        <item>...</item>
+    </string-array>
+
+    <string-array name="Courses">
+        <item> Mathematics </item>
+        <item> Physics </item>
+        <item> Chemistry </item>
+    </string-array>
+
+    <string-array name="Maths">
+        <item>Binary</item>
+        <item>Matrix</item>
+        <item>Algebra</item>
+        <item>Trigonometry</item>
+        <item>Calculus</item>
+        <item>Factorial</item>
+        <item>Geometry</item>
+        <item> 1. New School Mathematics by Ababio \n2.General Mathematics by J.K Rowlings</item>
+    </string-array>
+
+    <string-array name="Phy">
+        <item> Optics </item>
+        <item> Magnetism </item>
+        <item> Electricity </item>
+        <item> Pulley system </item>
+        <item> Radioactivity </item>
+        <item> Mechanics </item>
+        <item> Motion </item>
+        <item> 1. New School Physics by Ababio \n2.Essential Physics by village people</item>
+    </string-array>
+
+    <string-array name="Chem">
+        <item> *ATOM AND ATOMIC THEORY OF MATTER* \nDalton\'s Atomic Theory \nStructure of the Atom \nDiscovery of Proton \nDiscovery of Neutron
+                \nDiscovery of Electron \nDiscovery of Nucleus \nMass Spectrometry \nIsotopic abundance</item>
+        <item> *MODERN ELECTRONIC STRUCTURE OF ATOMS* \nElectromagnetic Radiation \nAtomic Spectra \nThe Quantum Theory \nThe Wave nature of the Electron
+                \nThe Uncertainty principle \nQuantum Number and atomic orbital \nMagnetic properties of Atoms</item>
+        <item> *CHEMICAL BONDING* \nIonic bonding \nIonic solid and Lattice Energy \nGeneral Properties of Ionic Compounds \nFormation of Ions
+                \nCovalent Bond \nCovalent bonding theories \nCo-ordinate Covalent bond \nHydrogen bond \nMetallic Bond</item>
+        <item> *NUCLEAR CHEMISTRY* \nNuclear Symbols \nNuclear Stability and Decay \nModes of radioactive Decay \nTypes of Radioactive Decay
+                \nAlpha Decay \nBeta Emission \nNuclear Binding Energy</item>
+        <item> *TYPES OF CHEMICAL REACTIONS* \nPrecipitation Reaction \nConcepts of Acid and Bases \nOxidation-Reduction Reaction
+                \nOxidation Number \nBalancing Redox Reactions \nIonic Equations \nDisproportion and Self-Oxidation </item>
+        <item> *THE CHEMISTRY OF SELECTED METALS AND NON-METALS* \nThe S-Block Elements \nChemical Properties of Alkali Metals
+                \nReactions of Alkali Metals with Non Metals \nReactions of Alkali Earth Metals \nDiagonal Relationship \nThe D-Block Elements
+                \nOther Characteristic Properties of Transition metals and their compounds</item>
+        <item> *THE SOLID STATE* \nProperties of Solids \nDetermination of Structure \nMetals \nThermal and Electrical Conductivity of Metals
+                \nAlloys \nSemi-Conductors \nIonic Solids </item>
+        <item> 1. New School Chemistry by Ababio \n2.Essential Chemistry by village people</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item> Unit 1 </item>
+        <item> Unit 2 </item>
+        <item> Unit 3 </item>
+        <item> Unit 4 </item>
+        <item> Unit 5 </item>
+        <item> Unit 6 </item>
+        <item> Unit 7 </item>
+        <item> Recommended Books </item>
+    </string-array>
+
+</resources>
+
